@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+fondamentale quello cho ho scritto, resetta e cambia modalità
+display:
+none non occupa nessuno spazio nel documento 
+block rende un blocco unico la porzione di testo preso
+inline viene affiancxato ad altri elementi inline
+inline-block viene affiancato ad altri elementi inline e inline-block
+h1{
+    
+    color: red;  colore del testo
+    background-color: yellow; colore dello sfondo
+    width: auto; imposta larghezza del blocco
+    height: ; cambia altezza
+    border: ;  aggiungi il bordo
+    
+}
+
+.class{
+    per dare stile alle classi
+}
+#id{
+    per dare stile agli id
+} 
+padding e la distanza tra il contenuto e il bordo
+border inserisce un borso
+margin crea il margine
+border-radius arrotona il bordo
+    css validation service per controllare il css
+    */
+ 
